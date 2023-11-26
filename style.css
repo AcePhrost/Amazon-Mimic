@@ -1,0 +1,35 @@
+body{
+background-color:white;
+padding: 10em;
+padding-left: 40em;
+display: flex;
+flex-direction: column;
+
+}
+
+.card{
+   border-width: 5px;
+   border-style: solid; 
+   margin-left: 10em;
+   padding: 4%;
+
+}
+
+
+.img
+{
+    display: inline;
+    margin: 0px auto;
+    align-self: baseline;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+ 
+  
+    
+    
+ 
+
+.btn{
+    font-size: smaller;
+}
